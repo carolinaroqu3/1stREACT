@@ -1,2 +1,2 @@
-# 1stREACT
+# 1stREACT.js
 Created with CodeSandbox
